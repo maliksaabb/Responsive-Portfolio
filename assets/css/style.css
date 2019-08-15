@@ -1,0 +1,141 @@
+
+body {
+    
+    background-image: url(../images/concrete_seamless.png);
+
+}
+    
+
+h1 { 
+    background: #4aaaa5;
+    color: white;
+    margin: -10px;
+    height: 60px;
+    padding-left:30px;
+    padding-top:30px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    size: 18px;
+    width: 20%;
+    margin-left:11%;
+    padding-right:17px;
+    
+
+}
+a {
+    color:gray;
+    float:right;
+    padding:20px;
+    margin-top:-50px;
+    margin-left:20px;
+    
+}
+h2 { 
+    color:#4aaaa5;
+    padding-left:20px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+div {
+    background:white;
+    margin: 155px;
+    margin-top: 40px;
+    overflow:auto;
+    
+}
+img {
+    margin-left: 0px;
+    margin-right: 10px;
+    float: left;
+    padding-right: 10px;
+    
+}
+p {
+    padding:0px;
+    margin-left: 20px;
+    margin-right:20px;
+}
+hr { margin-left:20px;
+    margin-right:20px;
+    color:gray;
+    height:0px;
+    display:block;
+}
+form {
+
+    
+}
+.name-email {
+    margin-right: 15px;
+}
+section {
+    background-color:white;
+}
+        
+#fname {
+    color: gray;
+    float: left;
+    margin-left:50px;
+    padding-right:8%;
+    width: 80%;
+}
+#email{
+    margin: 20px;
+    margin-left:50px;
+    padding-top:0px;
+    padding-right:9px;
+    padding-left:20px;
+    padding-bottom:0%;
+    float:left;
+    color:gray;
+    width: 85%;
+    
+}
+#message {
+    margin-left: 7%;
+    margin-top:0%;
+    padding-right:-20px;
+    padding-left:-20%;
+    float:left;
+    padding-top:0%;
+    padding-bottom:0%;
+    color:gray;
+    
+    
+    
+}
+.divcontact {
+    background-color:white;
+    padding-right:auto;
+    resize:vertical;
+    width:60%;
+    box-align: center;
+    
+}
+input[type=submit] {
+    background-color:#4aaaa5;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 15px;
+    margin-top: 5%;
+    margin-right:45%; 
+    margin-left:6%;
+    float:left;    
+
+}
+
+.input-fields {
+    margin: 0 auto;
+    max-width: 800px;
+}
+
+  .wrapper {
+      width: 50%;
+      padding-left:35px;
+      box-align: center;
+  }
+  .img3 , .img4 , .img5 {
+      padding-top:15px;
+  }
+  
