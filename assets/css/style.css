@@ -4,29 +4,32 @@ body {
     background-image: url(../images/concrete_seamless.png);
 
 }
+
+
     
 
 h1 { 
     background: #4aaaa5;
     color: white;
     margin: -10px;
-    height: 60px;
-    padding-left:30px;
-    padding-top:30px;
+    height: 90px;
+    padding-left:15px;
+    padding-top:10px;
     font-family:Georgia, 'Times New Roman', Times, serif;
     size: 18px;
     width: 20%;
-    margin-left:11%;
-    padding-right:17px;
+    margin-left:0%;
+    padding-right:30px;
     
 
 }
 a {
     color:gray;
-    float:right;
+    float:left;
     padding:20px;
     margin-top:-50px;
-    margin-left:20px;
+    margin-left:-10px;
+    float:right;
     
 }
 h2 { 
@@ -36,9 +39,12 @@ h2 {
 }
 div {
     background:white;
-    margin: 155px;
+    margin: 500px;
     margin-top: 40px;
     overflow:auto;
+    margin-left: 2%;
+    width:50%;
+    padding-right:40px;
     
 }
 img {
@@ -46,6 +52,7 @@ img {
     margin-right: 10px;
     float: left;
     padding-right: 10px;
+
     
 }
 p {
@@ -57,7 +64,8 @@ hr { margin-left:20px;
     margin-right:20px;
     color:gray;
     height:0px;
-    display:block;
+    width:100%;
+    
 }
 form {
 
@@ -86,11 +94,11 @@ section {
     padding-bottom:0%;
     float:left;
     color:gray;
-    width: 85%;
+    width: 80%;
     
 }
 #message {
-    margin-left: 7%;
+    margin-left: 6%;
     margin-top:0%;
     padding-right:-20px;
     padding-left:-20%;
@@ -98,6 +106,7 @@ section {
     padding-top:0%;
     padding-bottom:0%;
     color:gray;
+    width:90%;
     
     
     
@@ -121,7 +130,8 @@ input[type=submit] {
     margin-top: 5%;
     margin-right:45%; 
     margin-left:6%;
-    float:left;    
+    float:left;   
+    margin-bottom:20px; 
 
 }
 
@@ -135,7 +145,7 @@ input[type=submit] {
       padding-left:35px;
       box-align: center;
   }
-  .img3 , .img4 , .img5 {
+  .img3 , .img4 , .img5 , .img1 , .img2{
       padding-top:15px;
   }
   
